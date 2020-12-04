@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1607094646 source:c:\users\1\desktop\c语言\通讯录\test.c
+	"contact.h"
+
+1607094091 c:\users\1\desktop\c语言\通讯录\contact.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1607094140 source:c:\users\1\desktop\c语言\通讯录\contact.c
+	"contact.h"
+
